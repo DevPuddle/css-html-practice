@@ -1,3 +1,15 @@
 /* body {
     background-color: lightblue;
 } */
+
+.head {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.color {
+    margin: auto;
+    width: 50%;
+    height: 20px;
+    background-color: blue;
+}
