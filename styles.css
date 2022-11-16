@@ -8,8 +8,17 @@
 }
 
 .color {
-    margin: auto;
     width: 50%;
     height: 20px;
-    background-color: blue;
+    background: rgba(177,155,125, 0.5);
+}
+
+div {
+    border-right:  20px double black;
+    margin: 0 auto;
+    width: 49%;
+    height: 20px;
+    background: linear-gradient(90deg, rgba(0,0,0, 0.5), rgba(255,200,175, 0.3));
+    padding-left: 10px;
+    box-shadow: 15.5px -1.0px 10px 0px rgba(0,0,0,0.5);
 }
